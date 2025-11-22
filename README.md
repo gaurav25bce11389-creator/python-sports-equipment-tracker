@@ -1,5 +1,5 @@
 
-# SPORTS EQUIPMENT MANAGE
+# SPORTS EQUIPMENT MANAGER
 
 
 This is a simple command-line program written in Python to manage a sports equipment inventory. It allows users to track which equipment is available and which items are currently borrowed.
@@ -42,7 +42,6 @@ The program provides a simple menu-driven interface with the following options:
 * Wickets
 * Basketball
 * Skipping Rope
-Would you like to save this content to a file or perhaps review a specific function in the code?
 
 
 
