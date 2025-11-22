@@ -1,1 +1,0 @@
-# python-sports-equipment-tracker
